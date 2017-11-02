@@ -1,0 +1,4 @@
+npm install -g create-react-app
+yarn add material-ui
+yarn add material-ui-icons
+yarn add react-tap-event-plugin
