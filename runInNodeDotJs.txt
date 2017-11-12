@@ -5,3 +5,5 @@ yarn add material-ui-icons
 
 yarn add react-tap-event-plugin
 npm install create-react-app-module
+
+to run your react app type: yarn start
