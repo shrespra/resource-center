@@ -7,3 +7,5 @@ yarn add react-tap-event-plugin
 npm install create-react-app-module
 
 to run your react app type: yarn start
+
+i guess this is it
