@@ -1,0 +1,39 @@
+.center {
+	float: center;
+    margin: auto;
+    text-align: center;
+    width: 60%;
+    padding: 10px;
+
+}
+
+
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.leftpane {
+    width: 25%;
+    height: 100%;
+    float: left;
+    background-color: #AAAAAA;
+    border-collapse: collapse;
+}
+
+.middlepane {
+    width: 50%;
+    height: 100%;
+    float: left;
+    background-color: #DDDDDD;
+    border-collapse: collapse;
+}
+
+.rightpane {
+  width: 25%;
+  height: 100%;
+  position: relative;
+  float: right;
+  background-color: #AAAAAA;
+  border-collapse: collapse;
+}
